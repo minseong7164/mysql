@@ -9,4 +9,4 @@ update
 set
 	class_name = 'java 고급'
 where
-	class_id = 1;
+	class_id = 5;
